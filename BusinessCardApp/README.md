@@ -22,3 +22,6 @@ Styling                 	Applied basic styling with Modifier for padding, sizing
     Run: Select the app configuration and run on an Android Emulator or physical device.
 
     Preview: The static design can be viewed instantly in the Android Studio Design/Split pane using the @Preview annotation in MainActivity.kt
+
+
+The link to the Codelab: https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables
