@@ -19,4 +19,4 @@ This collection of projects demonstrates proficiency in fundamental mobile devel
 
         The projects are organized into clear folders, reflecting the progression of lessons and the culmination of independent application development, these will be updated and when new projects or folders added:
 
-         AboutMe app, lesson1, lesson2 , lesson3 , JetPackCompose-HappyBirthday and Business Card 
+         AboutMe, lesson1, lesson2 , lesson3 , HappyBirthday, BusinessCardApp, CircleApp, Marsphotos and TaceTracker
